@@ -1,1 +1,3 @@
 # AudioVizAssignment
+
+Using an existing JavaFX media player application project, AudioViz, implement theability to use the slider above the visualizer to change the playhead position. The slider currentlychanges the playhead position as the media plays. The left end of the slider represents 0.0 time andthe right end represents the time of the end of the song. The user is to be able to slide the slider toany time between 0.0 and the end of the song and the media player is to play from the time positionselected. In addition, the numerical values displayed after Length: and Current: in the user interfaceare to only display one digit after the decimal point.
